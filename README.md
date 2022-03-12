@@ -12,7 +12,7 @@ I currently live in **Tuscany (Italy)** and am a member of the Industry, Technol
 
 ## ✨ What do I do?
 
-- I am currently working as a Backend Engineer at Subito.it (Adevinta Italy) 🏢  
+- I am currently working as a Backend Engineer at <a href="https://www.subito.it" target="_blank">Subito.it</a> (Adevinta Italy) 🏢  
 - I am co-founding a new SaaS-based startup that I want to launch very soon 📈 
 - I am always learning: now I am focusing on React/Typescript, Golang, and Django 📖  
 
