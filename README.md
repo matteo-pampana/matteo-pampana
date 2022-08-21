@@ -13,12 +13,5 @@ I am a **Software Engineer** passionate about **creating new digital products**.
 - Co-founding a SaaS-based startup that we will launch soon; 📈 
 - Deepening my knowledge of Golang, Django, and React. 📖  
 
-## 📊 Github Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=matteo-pampana)
-
-![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteo-pampana)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-pampana)
-
 ---
 <p align="center"> © 2022 Made with ❤️ &nbsp;by <a href="https://github.com/matteo-pampana">Matteo Pampana</a>. </p>
