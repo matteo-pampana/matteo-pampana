@@ -10,7 +10,6 @@ I am a **Software Engineer** passionate about **creating new digital products**.
 ## ✨ What do I do?
 
 - Currently working as a Backend Engineer at <a href="https://www.subito.it" target="_blank">Subito.it</a> (Adevinta Italy); 🏢  
-- Co-founding a SaaS-based startup that we will launch soon; 📈 
 - Deepening my knowledge of Golang, Django, and React. 📖  
 
 ---
