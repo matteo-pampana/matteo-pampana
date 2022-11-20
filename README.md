@@ -10,7 +10,7 @@ I am a **Software Engineer** passionate about **creating new digital products**.
 ## ✨ What do I do?
 
 - Currently working as a Backend Engineer at <a href="https://www.subito.it" target="_blank">Subito.it</a> (Adevinta Italy); 🏢  
-- Deepening my knowledge of Golang, Django, and React. 📖  
+- Deepening my knowledge of Golang, and React. 📖  
 
 ---
 <p align="center"> © 2022 Made with ❤️ &nbsp;by <a href="https://github.com/matteo-pampana">Matteo Pampana</a>. </p>
