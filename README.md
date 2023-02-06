@@ -1,7 +1,5 @@
 # Hey 👋 , I'm Matteo
 
-<img src="https://raw.githubusercontent.com/matteo-pampana/matteo-pampana/main/BannerGithub.png" alt="Matteo Pampana - software engineer">
-
 I am a **Software Engineer** passionate about **creating new digital products**.
 
 ## 🌎 Where you can find me
