@@ -6,9 +6,9 @@ Senior Backend Engineer
 
 **Senior Backend Engineer** specialized in distributed systems and high-scale microservices architecture.
 
-* 🌍  I'm based in Italy
+* 🌍  I'm from Italy
 * ✉️  You can contact me at [matteopampana@gmail.com](mailto:matteopampana@gmail.com)
-* 🚀  I'm currently working on [Subito](http://subito.it)
+* 🚀  I'm currently working @ [Subito](http://subito.it) 
 * 🧠  I'm currently learning Go, Kotlin, Ruby, JS/TS
 * 👥  I'm looking to collaborate on Interesting Projects!
 * 🌟  ***Building the future, one distributed system at a time***
